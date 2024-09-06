@@ -1,1 +1,1 @@
-<h1>WELCOME TO MY PORTFOLIO!</h1>
+<h1><center>WELCOME TO MY PORTFOLIO!</center></h1>
